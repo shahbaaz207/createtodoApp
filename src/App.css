@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding:0;
+
+}
+.header{
+    width: 99%;
+    height: 100%;
+    background-color: gray;
+    margin-top: 3px;
+    margin-left: 6px;
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    font-family: cursive;
+    color: green;
+}
